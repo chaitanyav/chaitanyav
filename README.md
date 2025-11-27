@@ -3,8 +3,6 @@ Hi, I'm NagaChaitanya Vellanki
 My interests include programming languages, compiler design, and program analysis.
 
 **In Review:**
-- [Clang] VectorExprEvaluator::VisitCallExpr / InterpretBuiltin - Allow AVX512 VPMULTISHIFTQB intrinsics to be used in constexpr [llvm/llvm-project#168995](https://github.com/llvm/llvm-project/pull/168995)
-- [Clang] VectorExprEvaluator::VisitCallExpr / InterpretBuiltin - Allow PSLL/PSRA/PSRL var intrinsics to be used in constexpr [llvm/llvm-project#169276](https://github.com/llvm/llvm-project/pull/169276)
 - [Clang] Implement __builtin_stdc_rotate_left, __builtin_stdc_rotate_right [llvm/llvm-project#160259](https://github.com/llvm/llvm-project/pull/160259)
 
 **Assigned/In Progress:**
