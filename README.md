@@ -4,6 +4,7 @@ My interests include programming languages, compiler design, and program analysi
 
 **In Review:**
 - [Clang] Implement __builtin_stdc_rotate_left, __builtin_stdc_rotate_right [llvm/llvm-project#160259](https://github.com/llvm/llvm-project/pull/160259)
+- [Clang] Make __builtin_assume_dereferenceable constexpr https://github.com/llvm/llvm-project/pull/169869
 
 **Assigned/In Progress:**
 - [Clang] VectorExprEvaluator::VisitCallExpr / InterpretBuiltin - allow GFNI intrinsics to be used in constexpr [llvm/llvm-project#169295](https://github.com/llvm/llvm-project/pull/169295)
